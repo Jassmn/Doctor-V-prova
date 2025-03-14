@@ -73,3 +73,18 @@ button {
     color: white;
     border: none;
 }
+
+/* Hero Section */
+#hero {
+    background-image: url("assets/hero-bg.jpg"); /* Correct path */
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 100px 20px;
+    color: white;
+}
+
+#hero h2 {
+    font-size: 2.5em;
+}
+
