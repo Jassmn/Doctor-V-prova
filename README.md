@@ -27,6 +27,8 @@ Dott. Vito Traversa
 - Dott. Vito Traversa nella trasmissione Televisiva Leggermente Frizzante con Paola Battaglia: https://youtu.be/lk1-1rTMqf8?si=QXBP0ojIXJsvpKmC
 
 
+©doctor-v.it
+
 
 
  
