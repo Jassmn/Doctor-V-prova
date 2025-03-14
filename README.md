@@ -1,5 +1,8 @@
 # Ecco gli vari link:
 
+-CIAOCHILI---
+Guarda il Trailer della trasmissione: https://youtu.be/ISA0Z8cvUGE?si=BIQxTmVpsionb8g-
+
 -PRESENTAZIONE---
 - VIDEO CASE STUDY GRATIS: https://www.youtube.com/watch?v=n75tQdjsnVo
 - VIDEO DEL MIO CANALE YOUTUBE: ---
@@ -12,10 +15,10 @@
   - Progetto Sicurezza - Il Castello di Darany | ClassHorseTv: https://youtu.be/Pb111gvJwwo?si=86Xac9EifKjBTE-M
 
 -ABOUT---
-La Verità è in ognuno di noi,
+"La Verità è in ognuno di noi,
 siamo parte di essa... Essere uniti
-aiuta a conoscere!
-Dott. Vito Traversa
+aiuta a conoscere!"
+- Dott. Vito Traversa
 
 - Kick-Off Panthers - Seconda Puntata: https://youtu.be/cbD-39MOP34?si=Relw9CHPNg2qw_1F
 - Di Che Natura Sei?: https://youtu.be/0mrC8_xKjeM?si=5djJNc7x3BszcwNN
@@ -23,8 +26,7 @@ Dott. Vito Traversa
 - Il Dott. Vito Traversa ospite a Menù Salute (puntata del 27 giugno 2013): https://youtu.be/tk4vmiSgmW8?si=UMgYgdTIFQ4Sa6Xx
 - Dott. Vito Traversa nella trasmissione Televisiva Leggermente Frizzante con Paola Battaglia: https://youtu.be/lk1-1rTMqf8?si=QXBP0ojIXJsvpKmC
 
--CIAOCHILI---
-Guarda il Trailer della trasmissione: https://youtu.be/ISA0Z8cvUGE?si=BIQxTmVpsionb8g-
+
 
 
  
