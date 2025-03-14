@@ -2,7 +2,7 @@
 
 -PRESENTAZIONE---
 - VIDEO CASE STUDY GRATIS: https://www.youtube.com/watch?v=n75tQdjsnVo
-- VIDEO DEL MIO CANALE YOUTUBE:
+- VIDEO DEL MIO CANALE YOUTUBE: ---
   Le Testimonianze di Tisanoceutica: https://youtu.be/ISA0Z8cvUGE?si=BkqFYTIb2TfGRGuu
   Dimagrire in menopausa con il Dott Vito Traversa. Altra testimonianza:    https://youtu.be/jR8AE7s4ogs?si=Mv47LYVZTDtjKFJS
   Dimagrire in Menopausa con il Dott Vito Traversa Nutrizionista a Brescia e Bergamo: https://youtu.be/n75tQdjsnVo?si=9-E7BpNlFhR-anvh
