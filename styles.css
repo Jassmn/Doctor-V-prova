@@ -78,7 +78,11 @@ button {
 #hero {
     background-image: url("assets/hero-bg.jpg"); /* Correct path */
     background-size: cover;
-    background-position: center;
+    background-position: center;#hero {
+  position: relative;
+  z-index: 1;
+}
+
     text-align: center;
     padding: 100px 20px;
     color: white;
@@ -87,4 +91,8 @@ button {
 #hero h2 {
     font-size: 2.5em;
 }
+#hero {
+  display: block; /* Ensure the hero section is visible */
+}
+
 
