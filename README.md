@@ -18,7 +18,7 @@ Guarda il Trailer della trasmissione: https://youtu.be/ISA0Z8cvUGE?si=BIQxTmVpsi
 "La Verità è in ognuno di noi,
 siamo parte di essa... Essere uniti
 aiuta a conoscere!"
-- Dott. Vito Traversa
+Dott. Vito Traversa
 
 - Kick-Off Panthers - Seconda Puntata: https://youtu.be/cbD-39MOP34?si=Relw9CHPNg2qw_1F
 - Di Che Natura Sei?: https://youtu.be/0mrC8_xKjeM?si=5djJNc7x3BszcwNN
