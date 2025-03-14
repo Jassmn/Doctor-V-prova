@@ -23,6 +23,12 @@ Dott. Vito Traversa
 - Il Dott. Vito Traversa ospite a Menù Salute (puntata del 27 giugno 2013): https://youtu.be/tk4vmiSgmW8?si=UMgYgdTIFQ4Sa6Xx
 - Dott. Vito Traversa nella trasmissione Televisiva Leggermente Frizzante con Paola Battaglia: https://youtu.be/lk1-1rTMqf8?si=QXBP0ojIXJsvpKmC
 
+-CIAOCHILI---
+Guarda il Trailer della trasmissione: https://youtu.be/ISA0Z8cvUGE?si=BIQxTmVpsionb8g-
+
+
+ 
+
 
 
 
