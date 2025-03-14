@@ -21,6 +21,10 @@ Dott. Vito Traversa
 - Di Che Natura Sei?: https://youtu.be/0mrC8_xKjeM?si=5djJNc7x3BszcwNN
 - La cellulite di nutrazione: https://youtu.be/e_QcALTpVeg?si=AZXjgbBK3xrV7qZu
 - Il Dott. Vito Traversa ospite a Menù Salute (puntata del 27 giugno 2013): https://youtu.be/tk4vmiSgmW8?si=UMgYgdTIFQ4Sa6Xx
+- Dott. Vito Traversa nella trasmissione Televisiva Leggermente Frizzante con Paola Battaglia: https://youtu.be/lk1-1rTMqf8?si=QXBP0ojIXJsvpKmC
+
+
+
 
 
   
