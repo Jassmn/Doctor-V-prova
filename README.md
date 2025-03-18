@@ -6,6 +6,10 @@
 </body>
 </html>
 
-
-![PDF Thumbnail](https://github.com/username/repository-name/raw/main/path/to/your-thumbnail-image.jpg)
-[Open the PDF]([https://github.com/username/repository-name/raw/main/path/to/your-file.pdf](https://github.com/Jassmn/Doctor-V-prova/blob/main/PRESENTAZIONE.pdf))
+</head>
+<body>
+    <h1>Embedded PDF</>
+    <embed src="[https://github.com/username/repository-name/raw/main/path/to/example.pdf](https://github.com/Jassmn/Doctor-V-prova/blob/main/PRESENTAZIONE.pdf)" width="100%" height="600px" type="application/pdf">
+    
+</body>
+</html>
